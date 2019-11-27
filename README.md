@@ -2,4 +2,4 @@
 
 Where great names are forged. An experimental app to learn Meteor.
 
-~Available here: [namefurnace.meteor.com](http://namefurnace.meteor.com)~ (depricated / abandonded?)
+~Available here: [namefurnace.meteor.com](http://namefurnace.meteor.com)~ (meteor.com is abandonded?)
